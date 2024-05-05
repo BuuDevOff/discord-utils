@@ -23,7 +23,7 @@ This tool is a single-threaded project written in JavaScript using Node.js.
 
 #### Supported Captcha Solving Services
 - [ ] **fCaptcha** (Currently works with hCaptcha Enterprise)
-- [ ] **hCaptcha** (Currently works with hCaptcha Enterprise)
+- [ ] **hCoptcha** (Currently works with hCaptcha Enterprise)
 - [x] **CapMonster** ("Doesn't support hCaptcha Enterprise" PATCHED)
 - [x] **2Captcha** ("Doesn't support hCaptcha Enterprise" PATCHED)
 
