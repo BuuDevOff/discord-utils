@@ -1,6 +1,6 @@
 # 🤖 Discord Utils 🤖
 
-This code is for educational purposes only!
+    This code is for educational purposes only!
 
 ## Features
 
